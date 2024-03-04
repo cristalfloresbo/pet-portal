@@ -1,2 +1,2 @@
 # pet-portal-backend
-Management of the pet's information
+Management of pet information
